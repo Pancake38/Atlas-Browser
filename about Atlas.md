@@ -1,0 +1,2 @@
+Atlas is a clean and highly customizable web browser built for users who value speed, simplicity, and privacy. With Atlas, you can tailor your browsing experience to fit your style, while enjoying a clutter-free interface that keeps you focused on what matters.
+For your privacy, Atlas automatically clears your browsing data, ensuring nothing you do online is stored or tracked. Explore the web safely, efficiently, and on your terms with Atlas.
