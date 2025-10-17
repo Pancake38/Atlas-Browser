@@ -2,4 +2,7 @@ Atlas is a clean and highly customizable web browser built for users who value s
 For your privacy, Atlas automatically clears your browsing data, ensuring nothing you do online is stored or tracked. Explore the web safely, efficiently, and on your terms with Atlas.
 
 
-![Atlas Logo](https://i.imgur.com/XZ9U0ej.png)
+<p align="center">
+  <img src="https://i.imgur.com/XZ9U0ej.png" alt="Atlas Logo" width="200">
+</p>
+
