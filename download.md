@@ -11,3 +11,7 @@ Open your current web browser and visit: https://atlas-browser.netlify.app/ This
 Click on the download button. The file will open in Google Drive. Click the Download button (downward arrow) at the top right. Once downloaded, locate the file in your device’s Downloads folder. run the installer and follow the instructions.
 
 Goodbye for now! Come back soon to explore more with Atlas!
+
+<p align="center">
+  <img src="https://i.imgur.com/XZ9U0ej.png" alt="Atlas Logo" width="200">
+</p>
